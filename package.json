@@ -6,7 +6,7 @@
     "dev": "bun run --watch index.ts"
   },
   "devDependencies": {
-    "bun-plugin-dts": "^0.1.0",
+    "bun-plugin-dts": "^0.2.0",
     "bun-types": "latest"
   },
   "dependencies": {
