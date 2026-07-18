@@ -15,7 +15,7 @@
     "buchta": "^0.5.100",
     "elysia": "^0.6.1",
     "elysia-fs-router": "^0.1.6",
-    "primevue": "^3.29.2",
+    "primevue": "^5.0.0",
     "vue": "^3.3.4"
   }
 }
